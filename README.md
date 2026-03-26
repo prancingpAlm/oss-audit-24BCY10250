@@ -2,7 +2,7 @@
 # Registration Number:24BCY10250
 # Chosen software: Linux Kernel
 # Description of Scripts:
-  # Script 1 — System Identity Report
+  # Script 1-System Identity Report
   This script displays important system information such as user name, home directory, kernel version, OS distribution, uptime, and current date/time. It uses        Linux commands and presents the output in a formatted report.
 
   Steps to Run-
@@ -19,7 +19,7 @@
   4.uptime
   5./etc/os-release file
 
-  # Script2-FOSS Package Inspector
+  # Script 2-FOSS Package Inspector
   This script checks whether a given software package is installed. For the Linux Kernel, it uses uname -r to display version details. For other packages, it uses package management commands to verify installation and shows a short description.
 
   Steps to Run-
@@ -33,7 +33,7 @@
   2.dpkg
   3.grep
 
-  # Script3-Disk and Permission Auditor 
+  # Script 3-Disk and Permission Auditor 
   This script analyzes the system’s disk usage and checks file permissions in a specified directory. It displays information about total disk space, used and available space, and lists files with their permissions. The script helps users understand storage usage and identify files with restricted or open permissions. It uses standard Linux commands to gather and present this information in a readable format.
 
   Steps to Run-
@@ -48,7 +48,7 @@
   3.ls -l: to view file permissions
   4.grep(optional)
 
-  # Script4-Log File Analyzer
+  # Script 4-Log File Analyzer
   This script reads a log file and counts how many times a specific keyword (like “error”) appears. It processes the file line by line and displays the total count along with matching lines.
 
   Steps to Run-
@@ -62,7 +62,7 @@
   2.cat
   3.tail
 
-  # Script5-
+  # Script 5-Open Source Manifesto Generator
   This script generates a personalized open-source manifesto by asking the user three questions. It stores the responses, combines them into a paragraph, adds the current date, and saves the output into a text file.
 
   Steps to Run-
