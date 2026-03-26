@@ -1,7 +1,7 @@
-# Student Name: Nitya N Gopalakrishnan
-# Registration Number:24BCY10250
-# Chosen software: Linux Kernel
-# Description of Scripts:
+## Student Name: Nitya N Gopalakrishnan
+## Registration Number:24BCY10250
+## Chosen software: Linux Kernel
+## Description of Scripts:
   # Script 1-System Identity Report
   This script displays important system information such as user name, home directory, kernel version, OS distribution, uptime, and current date/time. It uses        Linux commands and presents the output in a formatted report.
 
